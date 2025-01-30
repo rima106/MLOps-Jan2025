@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is the modified content in branch G24AIT063.
+=======
+This file has new content in branch G24AIT061.
+>>>>>>> G24AIT061
